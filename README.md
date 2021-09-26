@@ -6,4 +6,4 @@
 ``` pip install -r requirements.txt ```
 - Now execute following command
 ``` python -m uvicorn src.app:app --reload ```
-- 
+- API will be available at http://localhost:8000/healthcheck
